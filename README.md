@@ -35,7 +35,7 @@ This project was developed using the following technologies:
 
 ## 🔥 Preview
 
-[![Deploy with Vercel](https://vercel.com/button)](https://move-it-ruby-one.vercel.app/)
+[![Deploy with Vercel](https://vercel.com/button)](https://moveit-6a00w054n-fergracianoo.vercel.app/)
 
 ## 🚀 Getting started
 
